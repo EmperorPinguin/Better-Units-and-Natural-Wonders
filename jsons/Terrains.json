@@ -1,0 +1,80 @@
+[	
+
+//Natural Wonders
+
+{
+		"name": "Old Faithful",
+		"type": "NaturalWonder",
+		"science": 3,
+		"happiness": 4,
+		"occursOn": ["Grassland","Plains","Tundra","Mountain"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] to [4] [Mountain] tiles",
+			"Must be adjacent to [3] to [6] [Elevated] tiles",
+			"Must be adjacent to [0] to [3] [Desert] tiles",
+			"Must be adjacent to [0] to [3] [Tundra] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+{
+		"name": "Grand Mesa",
+		"type": "NaturalWonder",
+		"production": 3,
+		"gold": 4,
+		"occursOn": ["Plains","Desert","Tundra"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Grassland] tiles",
+			"Must be adjacent to [2] to [6] [Hill] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+{
+		"name": "Barringer Crater",
+		"type": "NaturalWonder",
+		"gold": 3,
+		"science": 4,
+		"occursOn": ["Desert","Tundra"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Grassland] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles",
+			"Must be adjacent to [0] to [4] [Elevated] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+{
+		"name": "Krakatoa",
+		"type": "NaturalWonder",
+                "food": 1,
+		"science": 5,
+		"occursOn": ["Ocean"],
+		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
+			"Must be adjacent to [0] [Ice] tiles",
+			"Neighboring tiles will convert to [Coast]"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+{
+		"name": "El Dorado",
+		"type": "NaturalWonder",
+                "food": 1,
+		"culture": 5,
+		"overrideStats": true,
+		"occursOn": ["Plains"],
+		"turnsInto": "Plains",
+		"impassable": true,
+		"unbuildable": true,
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [1] to [6] [Jungle] tiles",
+			"Grants 500 Gold to the first civilization to discover it"],
+		"weight": 2
+	},
+]	
