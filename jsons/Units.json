@@ -18,7 +18,7 @@
 	},
 {
 		"name": "African Forest Elephant",
-		"unitType": "Armored",
+		"unitType": "Mounted",
 		"uniqueTo": "Carthage",
 		"replaces": "Horseman",
 		"movement": 3,
