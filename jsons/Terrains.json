@@ -77,4 +77,18 @@
 			"Grants 500 Gold to the first civilization to discover it"],
 		"weight": 2
 	},
+//Terrain features
+{
+		"name": "Marsh",
+		"type": "TerrainFeature",
+		"food": 1,
+		"movementCost": 3,
+		"unbuildable": true,
+		"defenceBonus": -0.15,
+		"occursOn": ["Grassland"],
+		"uniques": ["Rare feature",
+					"[-2] to Fertility for Map Generation",
+					"Every [9] tiles with this terrain will receive a major deposit of a strategic resource."],
+		"civilopediaText": [{"text":"Only Polders can be built here", "link":"Improvement/Polder"}]
+	},
 ]	
