@@ -13,7 +13,7 @@
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Haka War Dance"],
 		"upgradesTo": "Swordsman",
-                "uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+            "uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	},
 {
@@ -26,10 +26,10 @@
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
-                "obsoleteTech": "Chivalry",
+            "obsoleteTech": "Chivalry",
 		"promotions": ["Great Generals II"],
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities>",
-			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+			      "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "elephant"
 	},
@@ -43,9 +43,8 @@
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>",
-			"Transfer Movement to [Great General]", "[+15]% Strength when stacked with [Great General]"],
-		"promotions": ["Formation I"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>","[+50]% to Flank Attack bonuses"],
+		"promotions": ["[Hakkapeliitta] ability","Formation I"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
@@ -61,13 +60,13 @@
 		"requiredResource": "Iron",
 		"requiredTech": "Electronics",
 		"uniques": ["Ranged attacks may be performed over obstacles", "Never appears as a Barbarian unit"],
-                "upgradesTo": "Missile Cruiser",
+            "upgradesTo": "Missile Cruiser",
 		"attackSound": "shipguns"
 	},
 {
 		"name": "Great Merchant",
 		"unitType": "Civilian",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
 			"Can construct [Customs house]", "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
