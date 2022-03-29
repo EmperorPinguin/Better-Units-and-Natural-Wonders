@@ -1,0 +1,10 @@
+[	
+
+//Beliefs
+
+{
+        "name": "Monastic Plant Breeding",
+        "type": "Follower",
+        "uniques": ["[+3 Food] from every [Holy site]"]
+    },
+]	
