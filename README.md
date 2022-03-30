@@ -14,4 +14,4 @@ Old Faithful: +1 Happiness, +1 Science;
 Stone Works: can now also be built on Plains;
 Holy site: +3 Food with a certain Follower Belief;
 Landmark: +1 Culture after discovering Archaeology;
-Manufactury: +1 Production after discovering Industrialization
+Manufactory: +1 Production after discovering Industrialization
