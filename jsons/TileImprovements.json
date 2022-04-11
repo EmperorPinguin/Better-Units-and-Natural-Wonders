@@ -1,13 +1,7 @@
 [	
 
 //TileImprovements
-
 {
-		"name": "Landmark",
-		"culture": 6,
-		"uniques": ["Great Improvement", "[+1 Culture] <after discovering [Archaeology]>"]
-	},
-	{
 		"name": "Manufactory",
 		"production": 4,
 		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "[+1 Production] <after discovering [Industrialization]>"]
