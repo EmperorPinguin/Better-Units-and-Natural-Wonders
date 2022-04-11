@@ -13,6 +13,5 @@ Marsh: +2 Food;
 Old Faithful: +1 Happiness, +1 Science; 
 Stone Works: can now also be built on Plains;
 Holy site: +3 Food with a certain Follower Belief;
-Landmark: +1 Culture after discovering Archaeology;
 Manufactory: +1 Production after discovering Industrialization;
 Pentagon: +15% Strength for Air units, +50% XP gained from combat for Air units
