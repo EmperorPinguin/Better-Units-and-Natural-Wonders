@@ -18,7 +18,7 @@
 		"isWonder": true,
 		"culture": 3,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "[+15]% Strength <for [Air] units>"],
+		"uniques": ["[-33]% Gold cost of upgrading <for [Military] units>", "[+15]% Strength <for [Air] units>", "[+50]% XP gained from combat <for [Air] units>"],
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},	
