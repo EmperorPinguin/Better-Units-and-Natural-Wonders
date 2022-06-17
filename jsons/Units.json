@@ -70,6 +70,7 @@
 			"Can construct [Customs house]", "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
+"Can start an [8]-turn golden age",
 {
 		"name": "Galleass",
 		"unitType": "Ranged Water",
