@@ -70,7 +70,17 @@
 			"Can construct [Customs house]", "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
-"Can start an [8]-turn golden age",
+{
+		"name": "Great Prophet",
+		"unitType": "Civilian",
+		"uniques": ["Can construct [Holy site] if it hasn't used other actions yet", "Can [Spread Religion] [4] times",
+			"Removes other religions when spreading religion", "May found a religion", "May enhance a religion", 
+			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]", 
+			"Unbuildable", "Religious Unit", "Hidden when religion is disabled", 
+			"Takes your religion over the one in their birth city","Can start an [8]-turn golden age"],
+		"movement": 2,
+		"religiousStrength": 1000
+	},
 {
 		"name": "Galleass",
 		"unitType": "Ranged Water",
