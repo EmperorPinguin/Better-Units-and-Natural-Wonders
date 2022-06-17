@@ -15,3 +15,5 @@ Stone Works: can now also be built on Plains;
 Holy site: +3 Food with a certain Follower Belief;
 Manufactory: +1 Production after discovering Industrialization;
 Pentagon: +15% Strength for Air units, +50% XP gained from combat for Air units
+Great Prophet: can start an 8-turn Golden Age
+Galleass: can enter Ocean tiles
