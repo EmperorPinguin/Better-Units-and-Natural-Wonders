@@ -29,3 +29,4 @@ Improves the following:
 >Longhouse: +10% production;
 >Horse Archer: add horses requirement
 >Samurai: Mobility instead of Shock I
+>Papal Primacy: increase resting point by 20 instead of 15
