@@ -31,3 +31,4 @@ Improves the following:
 >Samurai: Mobility instead of Shock I
 >Papal Primacy: increase resting point by 20 instead of 15
 >Piety and Rationalism no longer exclude each other, and Piety available in Ancient era
+>Collective Rule: swapped places with Republic
