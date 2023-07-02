@@ -208,7 +208,7 @@
     },
     {
         "name": "Piety",
-        "era": "Classical era",
+        "era": "Ancient era",
         "priorities": {
             "Neutral": 0,
             "Cultural": 10,
@@ -219,7 +219,6 @@
         "uniques": [
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
-            "Only available <before adopting [Rationalism]>"
         ],
         "policies": [
             {
@@ -248,7 +247,7 @@
                 "name": "Reformation",
                 "uniques": [
                     "[+33]% [Culture] [in all cities with a world wonder]",
-                    "Empire enters golden age"
+                    "Empire enters golden age",
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
@@ -418,7 +417,6 @@
         },
         "uniques": [
             "[+15]% [Science] <while the empire is happy>",
-            "Only available <before adopting [Piety]>"
         ],
         "policies": [
             {
