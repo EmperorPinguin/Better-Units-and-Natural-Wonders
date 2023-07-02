@@ -218,7 +218,7 @@
         },
         "uniques": [
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
-            "[+100]% Production when constructing [Temple] buildings [in all cities]",
+            "[+100]% Production when constructing [Temple] buildings [in all cities]"
         ],
         "policies": [
             {
@@ -247,7 +247,7 @@
                 "name": "Reformation",
                 "uniques": [
                     "[+33]% [Culture] [in all cities with a world wonder]",
-                    "Empire enters golden age",
+                    "Empire enters golden age"
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
