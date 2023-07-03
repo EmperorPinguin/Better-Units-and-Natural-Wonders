@@ -37,3 +37,4 @@ Improves the following:
 >Professional Army: provides happiness for XP buildings instead of defensive buildings
 >Military Tradition: +50% Great General generation
 >Trade Unions: +1 Gold from every Lighthouse
+>Mandate of Heaven: +1 Happiness from Shrines, Temples
