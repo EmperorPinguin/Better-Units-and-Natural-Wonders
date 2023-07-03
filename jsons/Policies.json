@@ -170,7 +170,8 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    "[+50]% XP gained from combat <for [Military] units>"
+                    "[+50]% XP gained from combat <for [Military] units>",
+                    "[Great General] is earned [50]% faster"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -189,10 +190,9 @@
                 "name": "Professional Army",
                 "uniques": [
                     "[-33]% Gold cost of upgrading <for [Military] units>",
-                    "[+1 Happiness] from every [Walls]",
-                    "[+1 Happiness] from every [Castle]",
-                    "[+1 Happiness] from every [Arsenal]",
-                    "[+1 Happiness] from every [Military Base]"
+                    "[+1 Happiness] from every [Barracks]",
+                    "[+1 Happiness] from every [Armory]",
+                    "[+1 Happiness] from every [Military Academy]",
                 ],
                 "requires": ["Military Caste"],
                 "row": 3,
@@ -232,7 +232,7 @@
             },
             {
                 "name": "Mandate Of Heaven",
-                "uniques": ["[50]% of excess happiness converted to [Culture]"],
+                "uniques": ["[+1 Happiness] from every [Shrine]", "[+1 Happiness from every [Temple]"],
                 "row": 1,
                 "column": 5
             },
@@ -246,8 +246,8 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "[+33]% [Culture] [in all cities with a world wonder]",
-                    "Empire enters golden age"
+                    "May choose [1] additional belief(s) of any type when [enhancing] a religion",
+                    "Free [Great Prophet] appears"
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
@@ -255,7 +255,10 @@
             },
             {
                 "name": "Free Religion",
-                "uniques": ["[-10]% Culture cost of adopting new Policies"],
+                "uniques": [                    
+                    "[+33]% [Culture] [in all cities with a world wonder]",
+                    "Empire enters golden age"
+                    ],
                 "requires": ["Mandate Of Heaven", "Reformation"],
                 "row": 3,
                 "column": 4
@@ -362,6 +365,7 @@
                 "name": "Trade Unions",
                 "uniques": [
                     "[-33]% maintenance on road & railroads",
+                    "[+1 Gold] from every [Lighthouse]",
                     "[+1 Gold] from every [Harbor]",
                     "[+1 Gold] from every [Seaport]"
                 ],

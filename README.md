@@ -32,3 +32,8 @@ Improves the following:
 >Papal Primacy: increase resting point by 20 instead of 15
 >Piety and Rationalism no longer exclude each other, and Piety available in Ancient era
 >Collective Rule: swapped places with Republic
+>Reformation: now provides free belief and free great prophet
+>Free Religion: -10% culture cost replaced by old Reformation bonuses
+>Professional Army: provides happiness for XP buildings instead of defensive buildings
+>Military Tradition: +50% Great General generation
+>Trade Unions: +1 Gold from every Lighthouse
